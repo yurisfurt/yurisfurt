@@ -23,13 +23,12 @@ Além da área profissional, também participo como voluntário no programa Defe
             src="https://custom-icon-badges.demolab.com/github/followers/yurisfurt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/yuri-siqueira-furtwaengler-8a1667134">
+    <a href="https://www.linkedin.com/in/yuri-siqueira-furtwaengler-8a1667134/">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
-            width = "30"
             style = "paddinf-right: 15px;"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
