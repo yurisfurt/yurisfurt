@@ -16,6 +16,13 @@ Além da área profissional, também participo como voluntário no programa Defe
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
+    <a href="https://github.com/yurisfurt?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/yurisfurt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
     <a href="www.linkedin.com/in/yuri-siqueira-furtwaengler-8a1667134">
         <img 
             alt="LinkedIn" 
@@ -23,7 +30,7 @@ Além da área profissional, também participo como voluntário no programa Defe
             width = "30"
             style = "paddinf-right: 15px;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />  
+        />
     </a>
 </p>
 
@@ -61,7 +68,7 @@ Além da área profissional, também participo como voluntário no programa Defe
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
 />
 <img 
     align="left" 
@@ -69,7 +76,7 @@ Além da área profissional, também participo como voluntário no programa Defe
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  
 />
 <img 
     align="left" 
@@ -77,7 +84,7 @@ Além da área profissional, também participo como voluntário no programa Defe
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -102,19 +109,21 @@ Além da área profissional, também participo como voluntário no programa Defe
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yurisfurt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
+<img
+    align="left"
+    alt="GitHub Status"
+    height="175"
+    src="https://github-stats-extended.vercel.app/api?username=yurisfurt&rank_icon=github&hide=stars&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=Status"
+    />
+
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisfurt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=yurisfurt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
