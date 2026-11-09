@@ -112,7 +112,7 @@ Além da área profissional, também participo como voluntário no programa Defe
 <img
     align="left"
     alt="GitHub Status"
-    height="175"
+    height="165"
     src="https://github-stats-extended.vercel.app/api?username=yurisfurt&rank_icon=github&hide=stars&show_icons=true&include_all_commits=true&theme=tokyonight&custom_title=Status"
     />
 
