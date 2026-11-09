@@ -13,7 +13,7 @@ Além da área profissional, também participo como voluntário no programa Defe
         <img 
             alt="Repositórios" 
             title="Me siga no GitHub" 
-            src="[https://custom-icon-badges.demolab.com/github/followers/yurisfurt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)"
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
     <a href="www.linkedin.com/in/yuri-siqueira-furtwaengler-8a1667134">
