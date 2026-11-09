@@ -9,11 +9,11 @@ Trabalho inovação, automação, engenharia de dados e otimização de fluxos, 
 Além da área profissional, também participo como voluntário no programa Defesa Civil na Escola.
 
 <p align="left">
-    <a href="https://github.com/yurisfurt?tab=followers">
+    <a href="https://github.com/yurisfurt">
         <img 
-            alt="Seguidores" 
+            alt="Repositórios" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/yurisfurt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="[https://custom-icon-badges.demolab.com/github/followers/yurisfurt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)"
         />
     </a>
     <a href="www.linkedin.com/in/yuri-siqueira-furtwaengler-8a1667134">
