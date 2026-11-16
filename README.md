@@ -31,6 +31,13 @@ Além da área profissional, também participo como voluntário no programa Defe
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <a href="https://yurisfurt.github.io/portifolio/">
+    <img
+        alt="Portfolio"
+        title="Meu Portfólio"
+        src="https://img.shields.io/badge/🌐_Portfolio-0D9488?style=for-the-badge"
+    />
+    </a>
 </p>
 
 ---
